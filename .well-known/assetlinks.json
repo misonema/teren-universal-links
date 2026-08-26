@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.teren.app",
+      "sha256_cert_fingerprints": [
+        "95:B5:FB:C8:11:EE:8B:47:BA:6E:F3:4E:AC:3C:E2:6C:16:5A:31:63:05:5D:F2:3C:CE:F2:39:A5:30:49:35:B2"
+      ]
+    }
+  }
+]
